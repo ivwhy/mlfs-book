@@ -5,7 +5,7 @@ O'Reilly book - Building Machine Learning Systems with a feature store: batch, r
 ## ML System Examples
 
 
-[Dashboards for Example ML Systems](https://featurestorebook.github.io/mlfs-book/)
+[Dashboards for Example ML Systems](https://ivwhy.github.io/mlfs-book/air-quality/)
 
 ## Course Comparison
 
